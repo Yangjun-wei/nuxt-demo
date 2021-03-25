@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7a4c72e-d77b-46de-9dc2-96a71d4c0d38" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +43,7 @@
       <workItem from="1616424088963" duration="94000" />
       <workItem from="1616462049634" duration="116000" />
       <workItem from="1616592515045" duration="1373000" />
-      <workItem from="1616634516584" duration="2087000" />
+      <workItem from="1616634516584" duration="3581000" />
     </task>
     <servers />
   </component>
